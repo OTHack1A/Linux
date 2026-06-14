@@ -6,7 +6,7 @@
 
 ## Description
 
-A collection of educational material on **Linux**, designed for students and enthusiasts who want to deepen their knowledge of the Linux operating system — from kernel internals to system administration.
+A collection of educational material on **Linux** and related technologies, designed for students and enthusiasts who want to deepen their knowledge of the Linux operating system — from kernel internals to system administration and containerization.
 
 ---
 
@@ -15,6 +15,7 @@ A collection of educational material on **Linux**, designed for students and ent
 ```
 Linux/
 ├── PDF/
+│   ├── Docker.pdf                 # Docker containerization study guide
 │   ├── Kernel_Linux.pdf           # Notes on the Linux kernel
 │   └── Linux_Administration.pdf   # Linux system administration guide
 ├── CONTRIBUTING.md
@@ -28,6 +29,7 @@ Linux/
 
 | File | Description |
 |------|-------------|
+| `PDF/Docker.pdf` | Docker containerization study guide |
 | `PDF/Kernel_Linux.pdf` | Notes and handouts on the Linux kernel |
 | `PDF/Linux_Administration.pdf` | Linux system administration guide |
 
