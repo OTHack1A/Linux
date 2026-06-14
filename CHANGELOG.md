@@ -5,6 +5,13 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.0] — 2026-06-14
+
+### Added
+- `PDF/Docker.pdf` — Docker containerization study guide
+
+---
+
 ## [1.0.0] — 2026-06-13
 
 ### Added
